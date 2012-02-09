@@ -1,7 +1,6 @@
 ISO19794 Standard Fingerprint
 
-This Program used for extraction and parsing of meaning full values from 
-ISO19794 standard fingerprint data samples.
+Program to parse ISO/IEC STANDARD 19794-7 format Hex file of Signature Template.
 
 You can use this software for given sample fingerprint Hex data in the folder samples.
 
