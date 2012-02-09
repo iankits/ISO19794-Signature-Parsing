@@ -1,0 +1,10 @@
+ISO19794 Standard Fingerprint
+
+This Program used for extraction and parsing of meaning full values from 
+ISO19794 standard fingerprint data samples.
+
+You can use this software for given sample fingerprint Hex data in the folder samples.
+
+The compilation and usage information can be found in the source.
+
+This program was developed for testing. So, this program do not gurantee perfect result.  
